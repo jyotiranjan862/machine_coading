@@ -1,0 +1,7 @@
+{
+  "editor.cursorBlinking": "solid",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 1,
+  "terminal.integrated.cursorBlinking": false,
+  "terminal.integrated.cursorStyle": "line"
+}
